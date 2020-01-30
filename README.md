@@ -10,3 +10,5 @@ facecream_product_sales_data.csv
 rplogo_small.png
 - the PNG file for Republic Polytechnic logo displayed at the start of the jupyter notebook assignment
 
+Capture01.png
+- Screen captured of the file directory structure.
